@@ -1,0 +1,7 @@
+[
+{"start": "7:00PM", "end": "7:10PM", "name": "Everyone meets @ qed42 office in Viman Nagar", "place":"702, East Court Phoenix, Viman Nagar"},
+{"start": "7:10PM", "end": "8:00PM", "name": "Session By saket & Piyuesh on Service Workers", "place":"Hall @ QED42 Office"},
+{"start": "8:00PM", "end": "8:30AM", "name": "Session By Ajit & Purushottam on Open Source Contributions", "place":"Hall @ QED42 Office"},
+{"start": "8:30PM", "end": "9:00PM", "name": "Snacks Sponsored by QED42", "place":"Hall @ QED42 Office"},
+{"start": "9:00PM ", "end": "9:30PM" , "name": "Closing and Depature", "place":"QED42 Office"}
+]

@@ -1,0 +1,81 @@
+[{
+    "header": {
+        "toolbar_icon_picture": "/data/images/PDG-logo.png",
+        "drawer_icon_picture": "/data/images/PDG-mobile.png"
+    },
+    "menu":{
+      "home": "HOME",
+      "speakers": "SPEAKERS",
+      "agenda":"AGENDA",
+      "getting": "GETTING THERE"
+    },
+    "movil-menu":{
+      "home": "Home",
+      "speakers": "Speakers",
+      "agenda": "Agenda",
+      "getting": "Getting there"
+    },
+
+    "details": {
+        "time": "7:00 PM , 27th MAY ",
+        "location": "QED42 Engineering Pvt. Ltd.",
+        "description": "The idea is to connect with the whole of Pune Drupal Community - which means everyone is more than welcome to join and contribute. During this meetup, we can do a couple of sessions (nothing pre-defined), demos and later may be breakup into BoF session. The venue for such gatherings would mostly be Company offices (different every month). Thanks to them for supporting these meetups!!",
+        "event_cover_picture_desktop": "/data/images/drupalcamppune.jpg",
+        "event_cover_picture_mobile": "/data/images/drupalcamppune-mobile.jpg",
+        "venue_map_latitude": "18.5204",
+        "venue_map_longitude": "73.8567",
+        "venue_pointer_latitude": "18.5373",
+        "venue_pointer_longitude": "73.7314",
+        "peatix_event_url": "http://www.meetup.com/pune-drupal-group/events/230759077/",
+        "get-ticket": "Interested in Attending - RSVP Now",
+        "button-get-ticket": "RSVP now",
+        "organized-by":"Hosted By",
+        "made-possible-with":"Sponsors",
+        "sponsor": "http://camp2015.punedrupalgroup.com/sites/default/files/styles/medium/public/sponsor-logo/to%20mail%2072%20dpi-01.png",
+        "co-sponsor": [{
+            "sponsor_image": "http://camp2015.punedrupalgroup.com/sites/default/files/styles/medium/public/sponsor-logo/to%20mail%2072%20dpi-01.png"
+        }, {
+            "sponsor_image": "http://camp2015.punedrupalgroup.com/sites/default/files/styles/medium/public/sponsor-logo/logo-axl-circle-mono-no-tagline.png"
+        }, {
+            "sponsor_image": "http://camp2015.punedrupalgroup.com/sites/default/files/styles/medium/public/sponsor-logo/clarion_logo_1.png"
+        }, {
+            "sponsor_image": "http://camp2015.punedrupalgroup.com/sites/default/files/styles/medium/public/sponsor-logo/Copy%20of%20Srijan-Logo-Transparent_0.png"
+        }]
+    },
+    "speaker": {
+      "title":"Speakers"
+    },
+    "agenda":{
+      "title":"Agenda",
+      "tochange":"* Subject to change"
+    },
+    "getting": {
+        "title": "Getting to QED42 Office",
+        "event_name": "Drupal Pune Group Meetup",
+        "getting_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet lectus arcu, id mollis nunc ullamcorper vel. Donec placerat urna vel suscipit blandit. Proin sit amet iaculis nibh. In hac habitasse platea dictumst.",
+        "venue_name": "QED42 Office",
+        "venue_photo": "https://pbs.twimg.com/media/CZ-xA6oUUAE1qzH.jpg",
+        "getting-to": "Getting to",
+        "there-are-ways":"There are few ways to come to",
+        "getting_method": [{
+            "method": "BUS",
+            "method_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet lectus arcu, id mollis nunc ullamcorper vel. Donec placerat urna vel suscipit blandit. Proin sit amet iaculis nibh. In hac habitasse platea dictumst."
+        }, {
+            "method": "OLA Auto or Taxi",
+            "method_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet lectus arcu, id mollis nunc ullamcorper vel. Donec placerat urna vel suscipit blandit. Proin sit amet iaculis nibh. In hac habitasse platea dictumst."
+        }, {
+            "method": "Own vehicle",
+            "method_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet lectus arcu, id mollis nunc ullamcorper vel. Donec placerat urna vel suscipit blandit. Proin sit amet iaculis nibh. In hac habitasse platea dictumst."
+        }, {
+            "method": "Walking",
+            "method_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus aliquet lectus arcu, id mollis nunc ullamcorper vel. Donec placerat urna vel suscipit blandit. Proin sit amet iaculis nibh. In hac habitasse platea dictumst."
+        }]
+    },
+    "footer": {
+        "organization_image": "/data/images/pdg-192.png",
+        "organization_url": "https://www.facebook.com/punedrug/",
+        "organization_name": "PDG Pune Drupal Group",
+        "author_name": "Saket Kumar",
+        "author_url": "https://saki007ster.github.io"
+    }
+}]
