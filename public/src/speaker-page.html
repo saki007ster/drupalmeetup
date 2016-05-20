@@ -142,7 +142,7 @@
         }
         </style>
         <iron-media-query query="min-width: 643px" query-matches="{{largeScreen}}"></iron-media-query>
-        <iron-ajax auto url="/public/data/speaker.json" handle-as="json" last-response="{{speakerData}}"></iron-ajax>
+        <iron-ajax auto url="/drupalmeetup/public/data/speaker.json" handle-as="json" last-response="{{speakerData}}"></iron-ajax>
         <div id="speakerPage">
             <h1 id="speaker_title">{{pageContent.title}}</h1>
             <div id=speaker-container>
