@@ -78,7 +78,7 @@
             }
         }
         </style>
-        <iron-ajax auto url="/data/page_data.json" handle-as="json" last-response="{{handleResponse}}"></iron-ajax>
+        <iron-ajax auto url="/public/data/page_data.json" handle-as="json" last-response="{{handleResponse}}"></iron-ajax>
         <iron-media-query query="(min-width: 840px)" query-matches="{{wide}}"></iron-media-query>
         <app-drawer-layout force-narrow>
             <template is="dom-if" if="{{!wide}}">
